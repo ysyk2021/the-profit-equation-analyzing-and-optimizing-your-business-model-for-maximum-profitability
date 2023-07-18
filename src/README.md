@@ -10,5 +10,4 @@ Throughout the book, we will use real-world examples and case studies to illustr
 
 Whether you're just starting out in business or looking to take your existing business to the next level, "The Profit Equation" is an essential guide to achieving financial success. Let's dive in and get started!
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
