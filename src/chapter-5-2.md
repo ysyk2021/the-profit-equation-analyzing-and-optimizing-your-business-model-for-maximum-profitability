@@ -1,4 +1,4 @@
-Chapter Title: Improving Customer Lifetime Value
+Improving Customer Lifetime Value
 ================================================
 
 Introduction
