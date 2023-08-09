@@ -3,7 +3,7 @@ Mergers and Acquisitions
 
 In this chapter, we will explore the concept of mergers and acquisitions (M\&A) and their significance in analyzing and optimizing your business model for maximum profitability. M\&A activities play a crucial role in shaping the competitive landscape and can greatly impact a company's growth strategy and financial performance.
 
-1. Understanding Mergers and Acquisitions
+1\. Understanding Mergers and Acquisitions
 -----------------------------------------
 
 ### 1.1 Definition and Types of M\&A
@@ -14,7 +14,7 @@ Mergers and acquisitions involve the consolidation of two or more companies to f
 
 Explore the potential benefits that M\&A transactions can bring to an organization, including economies of scale, increased market share, synergistic opportunities, and diversification. Additionally, we'll discuss the challenges associated with M\&A, such as cultural integration, operational complexities, and regulatory considerations.
 
-2. Key Considerations in M\&A
+2\. Key Considerations in M\&A
 -----------------------------
 
 ### 2.1 Strategic Fit and Due Diligence
@@ -29,7 +29,7 @@ Discuss different valuation methods used in M\&A transactions, such as discounte
 
 Examine the negotiation process and the key elements to consider when structuring an M\&A deal. This includes determining the payment method, defining the roles of the entities involved, assessing potential synergies, and addressing post-merger integration strategies.
 
-3. Managing Post-Merger Integration
+3\. Managing Post-Merger Integration
 -----------------------------------
 
 ### 3.1 Synergy Realization
