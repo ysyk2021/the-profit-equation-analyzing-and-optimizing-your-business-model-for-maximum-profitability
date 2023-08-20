@@ -8,7 +8,7 @@ In this chapter, we will explore the essential metrics that can help you analyze
 
 The gross profit margin is a fundamental metric that measures the profitability of your products or services. It indicates the percentage of revenue remaining after deducting the direct costs associated with delivering those products or services. To calculate the gross profit margin, use the following formula:
 
-    复制代码Gross Profit Margin = (Total Revenue - Cost of Goods Sold) / Total Revenue * 100
+    Gross Profit Margin = (Total Revenue - Cost of Goods Sold) / Total Revenue * 100
 
 A higher gross profit margin signifies better profitability as it suggests that your product or service is priced adequately to cover its direct costs.
 
@@ -17,7 +17,7 @@ A higher gross profit margin signifies better profitability as it suggests that 
 
 The net profit margin provides a broader view of your business's overall profitability by considering both direct and indirect costs. It reveals the percentage of revenue that remains as profit after accounting for all expenses, including operating costs, taxes, and interest. The net profit margin can be calculated using the following formula:
 
-    复制代码Net Profit Margin = (Net Income / Total Revenue) * 100
+    Net Profit Margin = (Net Income / Total Revenue) * 100
 
 Monitoring the net profit margin allows you to assess your business's efficiency in managing costs and generating profits.
 
@@ -26,7 +26,7 @@ Monitoring the net profit margin allows you to assess your business's efficiency
 
 Return on Investment (ROI) is a vital metric for evaluating the profitability of an investment or initiative. It helps determine whether the resources allocated to a particular project are generating desirable returns. To calculate ROI, use the following formula:
 
-    复制代码ROI = (Net Profit from Investment / Cost of Investment) * 100
+    ROI = (Net Profit from Investment / Cost of Investment) * 100
 
 A positive ROI indicates that the investment is profitable, while a negative ROI suggests a loss-making venture.
 
@@ -35,7 +35,7 @@ A positive ROI indicates that the investment is profitable, while a negative ROI
 
 The contribution margin measures the profitability of individual products or services by considering the direct costs associated with their production and delivery. It reveals the amount of revenue available to cover fixed costs and contribute towards profits. The contribution margin can be calculated using the following formula:
 
-    复制代码Contribution Margin = (Revenue - Variable Costs) / Revenue * 100
+    Contribution Margin = (Revenue - Variable Costs) / Revenue * 100
 
 By analyzing the contribution margin, you can identify which products or services are generating the most significant contribution to your overall profitability.
 
