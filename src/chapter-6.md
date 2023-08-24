@@ -1,5 +1,3 @@
-Chapter 6: Scaling for Growth
-=============================
 
 In this chapter, we'll explore strategies for scaling your business for growth. Here are some subchapters:
 

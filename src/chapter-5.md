@@ -1,5 +1,3 @@
-Chapter 5: Customer Acquisition and Retention
-=============================================
 
 In this chapter, we'll discuss customer acquisition and retention strategies for optimizing profitability.
 

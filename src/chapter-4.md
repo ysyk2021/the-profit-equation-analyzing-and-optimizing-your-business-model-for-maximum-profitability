@@ -1,5 +1,3 @@
-Chapter 4: Pricing Strategies
-=============================
 
 In this chapter, we'll discuss several pricing strategies for optimizing profitability.
 

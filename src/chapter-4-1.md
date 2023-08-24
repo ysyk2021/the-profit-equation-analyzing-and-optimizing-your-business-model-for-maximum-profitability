@@ -1,5 +1,3 @@
-Setting Prices to Maximize Revenue
-===========================================
 
 In this chapter, we will explore the critical topic of setting prices to maximize revenue for your business. Pricing is a complex and strategic decision that directly impacts the overall profitability of your company. By understanding the key principles and strategies behind effective pricing, you can optimize your business model to achieve maximum revenue generation.
 

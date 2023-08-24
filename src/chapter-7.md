@@ -1,5 +1,3 @@
-Chapter 7: Financial Management
-===============================
 
 In this chapter, we'll explore the critical components of financial management that help businesses achieve maximum profitability and long-term success.
 
